@@ -8,7 +8,7 @@ import BadgesList from '../components/BadgesList';
 
 class Badges extends React.Component {
 
-	//   componentDidMount() {
+//   componentDidMount() {
   //   console.log('3. componentDidMount()');
 
   //   this.timeoutId = setTimeout(() => {
